@@ -1,0 +1,19 @@
+body{
+  background-image: linear-gradient( red,white);
+  background-repeat: no-repeat;
+}
+.satu{
+  width: 500px;
+  height: 400px;
+  margin: 0 auto;
+  text-align: center;
+  background-image: linear-gradient(blue,white);
+}
+.dua{
+  width: 500px;
+  height: 170px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 29px;
+  background-image: linear-gradient(to left, white,blue,white);
+}
